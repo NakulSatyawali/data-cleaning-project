@@ -1,14 +1,14 @@
 # Data Cleaning and Processing Project
 
 ## Introduction
-Yeh project Life Expectancy dataset ka data cleaning aur processing involve karta hai.
+This project involves data cleaning and processing of the Life Expectancy dataset.
 
 ## Steps
-1. Missing values, outliers, aur inconsistencies ko identify aur handle kiya.
-2. Data formats ko standardize kiya aur errors ko correct kiya.
-3. Duplicates ko remove kiya aur feature engineering kiya.
-4. Normalization aur scaling techniques apply kiya.
-5. Statistical methods aur visualization tools ka use karke data distributions aur relationships explore kiya.
+1. Identified and handled missing values, outliers, and inconsistencies.
+2. Standardized data formats and corrected errors.
+3. Removed duplicates and conducted feature engineering.
+4. Applied normalization and scaling techniques.
+5. Utilized statistical methods and visualization tools to explore data distributions and relationships.
 
 ## Files
 - `Life_Expectancy_Data.csv`: Original dataset.
@@ -17,5 +17,5 @@ Yeh project Life Expectancy dataset ka data cleaning aur processing involve kart
 - `README.md`: Project documentation.
 
 ## How to Use
-1. Sabhi files ko is repository se download karein.
-2. `data_cleaning_project.ipynb` file ko Google Colab ya Jupyter Notebook mein open karein code aur analysis ko explore karne ke liye.
+1. Download all files from this repository.
+2. Open the `data_cleaning_project.ipynb` file in Google Colab or Jupyter Notebook to explore the code and analysis.
